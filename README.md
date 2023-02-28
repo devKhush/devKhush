@@ -3,17 +3,24 @@
 -->
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
- 
-- Hello 🙌, I'm Khushdev Pandit
+
+<br>
+<h1 align="center">Hello 😄, I'm Khushdev Pandit</h1>
+<h5>
+- Hello 🙌, I'm Khushdev 
 - 😄 3rd-year Undergraduate student at IIIT Delhi.
-- 🔭 I'm interested in Machine Learning, Problem-solving and Web Dev.
+- 💻 I'm interested in Machine Learning, Problem-solving and Web Dev.
 - 👀 I’m currently working on Machine Learning projects.
 - 📫 How to reach me: 
-      - [LinkedIn](https://www.linkedin.com/in/khushdev-pandit-395365200)
-      - Email: khushdev20211@iiitd.ac.in
-- 😄 Pronouns: He/him
+      <ul>
+      <li> [LinkedIn](https://www.linkedin.com/in/khushdev-pandit-395365200) </li>
+      <li> Email: khushdev20211@iiitd.ac.in </li>
+      </ul>
+</h5>
 
 
+<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devKhush&show_icons=true&locale=en&layout=compact" alt="devKhush" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devKhush&show_icons=true&locale=en" alt="devKhush" /></p>
 <hr>
@@ -21,7 +28,7 @@
 <p></p>
 <hr>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">Languages and tools I use:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <!---
@@ -43,3 +50,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 -->
 </p>
+<br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devKhush&label=Profile%20views&color=0e75b6&style=flat" alt="devKhush" /> </p>
