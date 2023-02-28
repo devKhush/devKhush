@@ -15,7 +15,7 @@
 <li> 👀 I’m currently working on Machine Learning projects. </li>
 <li> 📫 How to reach me: 
       <ul>
-      <li> LinkedIn: [Click here](https://www.linkedin.com/in/khushdev-pandit-395365200) </li>
+      <li> LinkedIn: https://www.linkedin.com/in/khushdev-pandit-395365200 </li>
       <li> Email: khushdev20211@iiitd.ac.in </li>
       </ul>
 </li>
