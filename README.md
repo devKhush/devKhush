@@ -7,15 +7,18 @@
 <br>
 <h1 align="center">Hello 😄, I'm Khushdev Pandit</h1>
 <h5>
-- Hello 🙌, I'm Khushdev 
-- 😄 3rd-year Undergraduate student at IIIT Delhi.
-- 💻 I'm interested in Machine Learning, Problem-solving and Web Dev.
-- 👀 I’m currently working on Machine Learning projects.
-- 📫 How to reach me: 
+<ul>
+<li> Hello 🙌, I'm Khushdev  </li>
+<li> 😄 3rd-year Undergraduate student at IIIT Delhi. </li>
+<li> 💻 I'm interested in Machine Learning, Problem-solving and Web Dev. </li>
+<li> 👀 I’m currently working on Machine Learning projects. </li>
+<li> 📫 How to reach me: 
       <ul>
       <li> [LinkedIn](https://www.linkedin.com/in/khushdev-pandit-395365200) </li>
       <li> Email: khushdev20211@iiitd.ac.in </li>
       </ul>
+</li>
+</ul>
 </h5>
 
 
