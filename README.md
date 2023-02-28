@@ -6,7 +6,8 @@
 
 <br>
 <h1 align="center">Hello 😄, I'm Khushdev Pandit</h1>
-<h4>
+<br>
+<h3>
 <ul>
 <li> Hello 🙌, I'm Khushdev  </li>
 <li> 😄 3rd-year Undergraduate student at IIIT Delhi. </li>
@@ -14,12 +15,12 @@
 <li> 👀 I’m currently working on Machine Learning projects. </li>
 <li> 📫 How to reach me: 
       <ul>
-      <li> [LinkedIn](https://www.linkedin.com/in/khushdev-pandit-395365200) </li>
+      <li> LinkedIn: [Click here](https://www.linkedin.com/in/khushdev-pandit-395365200) </li>
       <li> Email: khushdev20211@iiitd.ac.in </li>
       </ul>
 </li>
 </ul>
-</h4>
+</h3>
 
 
 <hr>
