@@ -19,7 +19,7 @@
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devKhush&show_icons=true&locale=en" alt="devKhush" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devKhush&" alt="devKhush" /></p>
+<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devKhush&" alt="devKhush" /></center>
 <p></p>
 <hr>
 
@@ -38,8 +38,8 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
- <a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/images/621f8f94654abf384c30d63c.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Symbol.jpg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/intellij-idea-icon/intellij-idea-icon-5.jpg" alt="vscode" width="40" height="40"/> </a> 
 <!--
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
