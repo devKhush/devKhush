@@ -14,23 +14,10 @@
 - 😄 Pronouns: He/him
 
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-</style>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devKhush&show_icons=true&locale=en&layout=compact" alt="devKhush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devKhush&show_icons=true&locale=en" alt="devKhush" /></p>
 <hr>
-<div style="text-align:center">
-<img align="center" class="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devKhush&show_icons=true&locale=en&layout=compact" alt="devKhush" />
-</div>
-<hr>
-<center><img align="center" class="center" src="https://github-readme-stats.vercel.app/api?username=devKhush&show_icons=true&locale=en" alt="devKhush" /></center>
-<hr>
-<center><img align="center" class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devKhush&" alt="devKhush" /></center>
+<p><img align="center" class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devKhush&" alt="devKhush" /></p>
 <p></p>
 <hr>
 
