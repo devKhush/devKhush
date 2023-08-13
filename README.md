@@ -6,7 +6,7 @@
 
 <!-- <br> -->
 <p align="center" >
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=AC1877&width=435&lines=I'm+Khushdev+Pandit...;I'm+a+Developer+and+Researcher;Welcome+to+my+github+profile!">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=AC1877&width=435&lines=I'm+Khushdev+Pandit+.+.+.;I'm+a+Developer+and+Researcher+.;Welcome+to+my+Github+profile!">
 </p>
 
 <p align="left"> 
